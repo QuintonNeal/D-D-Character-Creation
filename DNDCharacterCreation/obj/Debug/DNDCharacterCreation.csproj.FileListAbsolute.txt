@@ -1,0 +1,10 @@
+S:\jqneal\SEM2\Database\DNDCharacterCreation\bin\Debug\DNDCharacterCreation.exe.config
+S:\jqneal\SEM2\Database\DNDCharacterCreation\bin\Debug\DNDCharacterCreation.exe
+S:\jqneal\SEM2\Database\DNDCharacterCreation\bin\Debug\DNDCharacterCreation.pdb
+S:\jqneal\SEM2\Database\DNDCharacterCreation\obj\Debug\DNDCharacterCreation.csprojAssemblyReference.cache
+S:\jqneal\SEM2\Database\DNDCharacterCreation\obj\Debug\DNDCharacterCreation.Form1.resources
+S:\jqneal\SEM2\Database\DNDCharacterCreation\obj\Debug\DNDCharacterCreation.Properties.Resources.resources
+S:\jqneal\SEM2\Database\DNDCharacterCreation\obj\Debug\DNDCharacterCreation.csproj.GenerateResource.cache
+S:\jqneal\SEM2\Database\DNDCharacterCreation\obj\Debug\DNDCharacterCreation.csproj.CoreCompileInputs.cache
+S:\jqneal\SEM2\Database\DNDCharacterCreation\obj\Debug\DNDCharacterCreation.exe
+S:\jqneal\SEM2\Database\DNDCharacterCreation\obj\Debug\DNDCharacterCreation.pdb
